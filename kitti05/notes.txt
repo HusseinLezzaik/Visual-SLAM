@@ -1,0 +1,1 @@
+Extract of KITTI dataset, part of sequence 05, grayscale cameras
