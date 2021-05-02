@@ -18,11 +18,7 @@ In this repo, you'll find :
     conda activate visual-servoing
     pip install -r requirements.txt
     ```
-3. Run
- ``` 
-    motion2D2D.py
-       
- ```
+3. Run `motion2D2D.py`
 
 And you're good to go!
 
