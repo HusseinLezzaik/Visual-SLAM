@@ -14,8 +14,8 @@ In this repo, you'll find :
 1.  Clone repo: `git clone https://github.com/HusseinLezzaik/Visual-SLAM.git`
 2.  Install dependencies:
     ```
-    conda create -n visual-servoing python=3.7
-    conda activate visual-servoing
+    conda create -n visual-slam python=3.7
+    conda activate visual-slam
     pip install -r requirements.txt
     ```
 3. Run `motion2D2D.py`
