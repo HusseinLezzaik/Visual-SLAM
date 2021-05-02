@@ -6,9 +6,9 @@ Code for implementation of Visual SLAM using data from an RBG Camera equipped on
 ## Overview of the Repository
 In this repo, you'll find :
 * `Kitti`: famous kitti dataset.
-* `hartley1997.pdf`: paper of the Eight Point Algorithm for 3D Point Clouds data.
+* `hartley1997.pdf`: paper describing Eight Point Algorithm for 3D Point Clouds data.
 * `motion2D2D.py`: motion estimation from 2 frames in a monocular setup.
-* `draw.py`: modified version of opencv DrawMatches to recover randomly generated colors
+* `draw.py`: modified version of opencv DrawMatches to recover randomly generated colors.
 
 ## Getting Started
 1.  Clone repo: `git clone https://github.com/HusseinLezzaik/Visual-SLAM.git`
@@ -18,6 +18,11 @@ In this repo, you'll find :
     conda activate visual-servoing
     pip install -r requirements.txt
     ```
+3. Run
+ ``` 
+    motion2D2D.py
+       
+ ```
 
 And you're good to go!
 
